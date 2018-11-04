@@ -1,10 +1,6 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+output: github_document
 ---
-
-# About the project
 
 
 This is my playground for the "Introduction to Open Data Science" course offered by the University of Helsinki. More infos under: https://blogs.helsinki.fi/thinkopen/welcome-open-data-science/
